@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611533943 source:d:\codeblock-workspace\dynamic programming\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
